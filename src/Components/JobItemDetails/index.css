@@ -1,0 +1,126 @@
+.jobs-item-details-container {
+  background-color: #000000;
+  min-height: 100vh;
+  padding: 65px;
+}
+
+.job-details-mini-container {
+  background-color: #202020;
+  padding: 55px;
+  border-radius: 15px;
+}
+
+.job-details-employment {
+  font-size: 20px;
+  color: #f1f5f9;
+}
+
+.jobDetails-company-logo {
+  height: 65px;
+}
+
+.jobs-details-rating {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+
+.job-details-rating-container {
+  display: flex;
+  align-items: center;
+}
+
+.job-details-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.job-details-rating-jobType-container {
+  line-height: 0.5;
+  margin-left: 20px;
+}
+
+.job-details-location-container {
+  display: flex;
+  align-items: center;
+}
+
+.job-details-briefcase-container {
+  display: flex;
+  align-items: center;
+}
+
+.job-details-locationAndPackage-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.job-details-locationAndJob-container {
+  display: flex;
+  align-items: center;
+}
+
+.job-details-location-icon {
+  color: #ffffff;
+  margin-right: 5px;
+}
+
+.job-details-briefcase-icon {
+  color: #ffffff;
+  margin-left: 20px;
+  margin-right: 5px;
+}
+
+.job-details-location {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+}
+
+.job-details-jobType {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+}
+
+.job-details-package-amount {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+}
+
+.job-details-description {
+  font-size: 'Roboto';
+  line-height: 1.5;
+  font-size: 23px;
+  /* font-weight: 200; */
+  color: #f1f5f9;
+}
+
+.job-details-description-heading {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 28px;
+}
+
+.description-website-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.external-link-icon {
+  display: flex;
+  align-items: center;
+  color: #b6c5ff;
+  text-decoration: none;
+  font-family: 'Roboto';
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 8px;
+}
+
+.skills-heading {
+  font-family: 'Roboto';
+  color: #f1f5f9;
+  font-size: 28px;
+}
